@@ -1,2 +1,2 @@
-UNK | https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
-UNK2 | https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/socks5.txt
+https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/socks5.txt
